@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paananenenanaap
+👋 Hi, I’m @paananenenanaap
 
 <!---
 paananenenanaap/paananenenanaap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
